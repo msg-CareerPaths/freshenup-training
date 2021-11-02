@@ -62,6 +62,7 @@ Install [NodeJs](https://nodejs.org/en/) and an IDE ([VsCode](https://code.visua
 
     *Note: Skip over extremelly complicated exercises*.
 - https://frontendmasters.com/courses/typescript-v3/
+- Naming Conventions: https://basarat.gitbook.io/typescript/styleguide
 
 #### Evaluation Problems:
 
