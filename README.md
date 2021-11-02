@@ -48,19 +48,19 @@ Install [NodeJs](https://nodejs.org/en/) and an IDE ([VsCode](https://code.visua
 #### Tutorials
 - https://frontendmasters.com/courses/getting-started-javascript-v2/
 
-*Note: Skip over extremelly complicated exercises*
+    *Note: Skip over extremelly complicated exercises*
 - https://frontendmasters.com/courses/js-recent-parts/
 
-**Required**:
-  - Destructuring
-  - Strings
-  - Array Methods
+    **Required**:
+      - Destructuring
+      - Strings
+      - Array Methods
 
-**Optional**:
-  - Iterators/Generators
-  - Regular Expressions
+    **Optional**:
+      - Iterators/Generators
+      - Regular Expressions
 
-*Note: Skip over extremelly complicated exercises*.
+    *Note: Skip over extremelly complicated exercises*.
 - https://frontendmasters.com/courses/typescript-v3/
 
 #### Evaluation Problems:
