@@ -39,7 +39,7 @@ You need to install IntelliJ [IDEA (Community)](https://www.jetbrains.com/idea/d
 
 #### Evaluation Problems:
 
-- Contact the mentor to give you a modelling problem. Example: Model the java classes for an University holding student, etc..
+- Contact the mentor to give you a modelling problem. Example: Model the java classes for an University holding students, etc..
 
 ### 3.2 Javascript/Typescript Training
 
@@ -67,7 +67,7 @@ Install [NodeJs](https://nodejs.org/en/) and an IDE ([VsCode](https://code.visua
 
 #### Evaluation Problems:
 
-- Contact the mentor to give you a modelling/algorithmic problem. Example: Model the typescript classes for an University holding student, etc..
+- Contact the mentor to give you a modelling/algorithmic problem. Example: Model the typescript classes for an University holding students, etc..
 
 #### Further Resources
 - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
