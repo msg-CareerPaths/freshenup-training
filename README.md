@@ -67,7 +67,7 @@ Install [NodeJs](https://nodejs.org/en/) and an IDE ([VsCode](https://code.visua
 
 #### Evaluation Problems:
 
-- Contact the mentor to give you a modelling/algorithmic problem. Example: Model the java classes for an University holding student, etc..
+- Contact the mentor to give you a modelling/algorithmic problem. Example: Model the typescript classes for an University holding student, etc..
 
 #### Further Resources
 - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
